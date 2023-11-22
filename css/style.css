@@ -1,0 +1,28 @@
+.background_container_header{
+    background-color: #2C3E50;
+    color: white;
+}
+
+li> i{
+    color: white;
+    font-size: 2em;
+}
+
+nav> ul> li {
+    display: inline;
+    list-style: none;
+}
+
+.background_container_section{
+    background-color:#1ABC9C;
+    color: white;   
+}
+
+.container_img{
+    width: 50%;
+}
+
+ul> li {
+    display: inline;
+    list-style: none;
+}
