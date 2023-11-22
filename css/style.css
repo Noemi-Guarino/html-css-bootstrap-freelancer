@@ -22,3 +22,40 @@ ul> li {
     display: inline;
     list-style: none;
 }
+
+.img_container{
+    width: 70%;
+}
+
+.description_avatar>*{
+    margin-bottom: 20px;
+}
+
+.button{
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.downland {
+    border: 2px solid white; 
+}
+
+.green{
+    background-color: #1ABC9C;
+}
+
+.styleinput{
+  border:none; 
+}
+
+.container_input> div{
+  border-bottom: 2px solid lightgrey;
+  margin-bottom: 10px;
+}
