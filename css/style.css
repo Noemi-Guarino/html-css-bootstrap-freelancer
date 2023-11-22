@@ -1,4 +1,4 @@
-.background_container_header{
+.background_container_header, .background_container_footer{
     background-color: #2C3E50;
     color: white;
 }
@@ -58,4 +58,13 @@ ul> li {
 .container_input> div{
   border-bottom: 2px solid lightgrey;
   margin-bottom: 10px;
+}
+
+.greenlink{
+    text-decoration: none;
+    color: #1ABC9C;
+}
+
+.background_container_footer_bottom{
+    background-color: #2C3E50;
 }
