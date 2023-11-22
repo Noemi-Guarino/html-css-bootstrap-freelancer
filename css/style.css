@@ -1,4 +1,4 @@
-.background_container_header, .background_container_footer{
+.background_container_header{
     background-color: #2C3E50;
     color: white;
 }
@@ -24,7 +24,7 @@ ul> li {
 }
 
 .img_container{
-    width: 70%;
+    width: 60%;
 }
 
 .description_avatar>*{
@@ -65,6 +65,12 @@ ul> li {
     color: #1ABC9C;
 }
 
+.background_container_footer{
+    background-color: #3A546D;
+    color: white;
+}
+
 .background_container_footer_bottom{
     background-color: #2C3E50;
+    color: white;
 }
