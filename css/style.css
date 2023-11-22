@@ -18,10 +18,6 @@ nav> ul> li {
     color: white;   
 }
 
-.container_img{
-    width: 50%;
-}
-
 ul> li {
     display: inline;
     list-style: none;
