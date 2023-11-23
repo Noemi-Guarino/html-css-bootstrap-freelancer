@@ -23,8 +23,13 @@ ul> li {
     list-style: none;
 }
 
+img{
+    width: 100%;
+    display: block;
+}
+
 .img_container{
-    width: 60%;
+    width: 50%;
 }
 
 .description_avatar>*{
