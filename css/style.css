@@ -51,15 +51,6 @@ ul> li {
     background-color: #1ABC9C;
 }
 
-.styleinput{
-  border:none; 
-}
-
-.container_input> div{
-  border-bottom: 2px solid lightgrey;
-  margin-bottom: 10px;
-}
-
 .greenlink{
     text-decoration: none;
     color: #1ABC9C;
