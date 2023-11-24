@@ -23,9 +23,8 @@ ul> li {
     list-style: none;
 }
 
-img{
-    width: 100%;
-    display: block;
+.img_dimension{
+    max-width: 300px;
 }
 
 .img_container{
